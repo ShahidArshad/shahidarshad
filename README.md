@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋![githubgif](https://user-images.githubusercontent.com/70083257/191746849-9d1d4132-0c77-48e1-8f0e-a9475df82a79.gif)
+
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <!--
